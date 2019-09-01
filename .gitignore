@@ -1,0 +1,10 @@
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+
+# project files
+composer.lock

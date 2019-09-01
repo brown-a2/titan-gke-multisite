@@ -1,0 +1,7 @@
+db-dump
+helm_charts/*
+bin
+.env
+.sql
+test.yaml
+Makefile
